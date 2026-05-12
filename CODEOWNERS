@@ -1,1 +1,7 @@
-* @ayanlogix
+# Core functionality - changes here should be rare!
+/src/app.py @ayanlogix
+/src/backend/database.py @ayanlogix
+/src/backend/routers/auth.py @ayanlogix
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/ @ayanlogix
