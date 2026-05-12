@@ -12,6 +12,7 @@ venv/          # Virtual environment for testing
 # Teacher IDE settings
 .vscode/       # Ms. Rodriguez uses VS Code
 .idea/         # Mr. Chen use  s PyCharm
+.idea/         # Mr. Chen uses PyCharm
 
 # Local development & testing
 instance/
